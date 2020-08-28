@@ -5,7 +5,7 @@ This is a REST appliacation which provides information about books.
 Controller endpoints: 
 
 
-1. http://<ip>:8081/books/<book id>
+1. http://<ip>:8081/goodbooks/books/<book id>
   
   Output Json example:
 
